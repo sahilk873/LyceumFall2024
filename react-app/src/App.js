@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Edit this line of code for the deliverable!
+          Hello, this is Sahil (best cookie maker)!
         </p>
         <p>
           Via Ad Excellentiam
